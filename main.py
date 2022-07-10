@@ -1,6 +1,12 @@
 import PySimpleGUI as gui
 from dhooks import Webhook, Embed
 
+'''
+Author: github.com/shndevdotpy
+This app makes it easy to send embed 
++ Discord style GUI
+'''
+
 
 gui.theme('DarkGrey14')
 guiTitle = "Discord Embed Sender"
